@@ -1,6 +1,6 @@
 package algoritmos;
 
-public class Main {
+public class MainFibonacci {
 
 	public static void main(String[] args) {
 		int input = 8;
