@@ -1,4 +1,4 @@
-package algoritmos.distribuidora;
+package distribuidora;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
@@ -19,8 +19,6 @@ public class MainDistribuidora {
 
 		Collections.addAll(distribuidoras, distSp, distRj, distMg, distEs, distOutros);
 		System.out.println(df.format(distSp.porcentagemFaturamento(distribuidoras)));
-		
-		
 	}
 
 }

@@ -1,4 +1,4 @@
-package algoritmos.distribuidora;
+package distribuidora;
 
 import java.util.List;
 

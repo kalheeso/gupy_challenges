@@ -1,4 +1,4 @@
-package algoritmos;
+package fibonacci;
 
 public class MainFibonacci {
 
